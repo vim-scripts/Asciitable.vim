@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=616
+
+I don't even remember why I originally needed this, but it will open up a split and create an ASCII table in decimal, hex, or octal.  Mappings are made to:
+<leader>a, <leader>a8, <leader>a10, <leader>ax, and <leader>a16.
+
+NOTE:  this is only tested on Win2K, and it was not exhaustively tested for different fonts/character sets.  I'd be curious to know how other platforms react to it.
+
+The code to split the window is based on that found in calendar.vim by Yasuhiro Matsumoto.
